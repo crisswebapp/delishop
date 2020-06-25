@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"editor.tabSize": 2,
+		"editor.formatOnSave": true,
+		"editor.codeActionsOnSave": {
+			"source.fixAll.eslint": false
+		},
+		"css.completion.triggerPropertyValueCompletion": false,
+		"vetur.format.defaultFormatter.html": "none",
+		"cSpell.enabled": true,
+		"cSpell.language": "en,es"
+	}
+}
